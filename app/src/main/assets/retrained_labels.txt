@@ -1,0 +1,10 @@
+pen
+bag
+chair
+shoe
+cup
+book
+laptop
+face
+hand
+cell phone
